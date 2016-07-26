@@ -1,0 +1,27 @@
+{
+  "name": "node-red-contrib-hello",
+  "version": "1.0.0",
+  "description": "Sends \"Hello World\" to the debug tab",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenniferkosta/node-red-hello-world.git"
+  },
+  "keywords": [
+    "\"node-red\"",
+    "\"hello\"",
+    "\"world\"",
+    "\"hello-world\"",
+    "\"node\"",
+    "\"red\""
+  ],
+  "author": "Jennifer Kosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenniferkosta/node-red-hello-world/issues"
+  },
+  "homepage": "https://github.com/jenniferkosta/node-red-hello-world#readme"
+}
